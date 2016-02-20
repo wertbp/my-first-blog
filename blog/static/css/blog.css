@@ -15,6 +15,7 @@ body {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+	font-family: 'Lobster', cursive;
 }
 
 .content {
@@ -22,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Arial', cursive;
 }
 
 .date {
